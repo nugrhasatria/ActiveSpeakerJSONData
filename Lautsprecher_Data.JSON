@@ -1,0 +1,102 @@
+[
+    {
+    "Active Loudspeaker Data":
+        [
+            {
+            "Model": "Adam Audio T5V",
+            "PrefScore": "4.17",
+            "PrefScoreSub": "6.43",
+            "LFX": "48",
+            "PriceIDR": "6700"
+            },
+     
+            {
+            "Model": "Edifier MR4",
+            "PrefScore": "3.5",
+            "PrefScoreSub": "6.1",
+            "LFX": "58",
+            "PriceIDR": "3000"
+            },
+       
+            {
+            "Model": "Edifier R1280t",
+            "PrefScore": "1.94",
+            "PrefScoreSub": "4.45",
+            "LFX": "68",
+            "PriceIDR": "1200"
+            },
+
+            {
+            "Model": "Genelec 8010a",
+            "PrefScore": "5.12",
+            "PrefScoreSub": "8.00",
+            "LFX": "67",
+            "PriceIDR": "10500"
+            },
+
+            {
+            "Model": "Genelec 8030C",
+            "PrefScore": "6.31",
+            "PrefScoreSub": "8.50",
+            "LFX": "46",
+            "PriceIDR": "22500"
+            },
+
+            {
+            "Model": "IK Multimedia iLoud Micro",
+            "PrefScore": "4.0",
+            "PrefScoreSub": "6.2",
+            "LFX": "49",
+            "PriceIDR": "6600"
+            },
+         
+            {
+            "Model": "IK Multimedia iLoud MTM",
+            "PrefScore": "5.35",
+            "PrefScoreSub": "7.49",
+            "LFX": "41",
+            "PriceIDR": "15000"
+            },
+           
+            {
+            "Model": "JBL 305P MKII",
+            "PrefScore": "5.2",
+            "PrefScoreSub": "7.30",
+            "LFX": "43",
+            "PriceIDR": "6250"
+            },
+    
+            {
+            "Model": "JBL 308P MKII",
+            "PrefScore": "5.8",
+            "PrefScoreSub": "7.5",
+            "LFX": "36",
+            "PriceIDR": "9500"
+            },
+    
+            {
+            "Model": "Kali LP6 V2",
+            "PrefScore": "5.8",
+            "PrefScoreSub": "7.7",
+            "LFX": "39",
+            "PriceIDR": "6700"
+            },
+
+            {
+            "Model": "Neumann KH 80",
+            "PrefScore": "6.17",
+            "PrefScoreSub": "8.42",
+            "LFX": "48",
+            "PriceIDR": "20500"    
+            },
+
+            {
+            "Model": "Neumann KH 120",
+            "PrefScore": "6.7",
+            "PrefScoreSub": "8.7",
+            "LFX": "42",
+            "PriceIDR": "31300"    
+            }
+        ]
+    }
+]   
