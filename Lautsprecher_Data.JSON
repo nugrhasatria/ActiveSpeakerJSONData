@@ -9,7 +9,79 @@
             "LFX": "48",
             "PriceIDR": "6700"
             },
-     
+
+            {
+            "Model": "Adam Audio T8V"
+            "PrefScore": "4.7",
+            "PrefScoreSub": "8.3",
+            "LFX": "",
+            "PriceIDR": "8800"
+            },
+
+            {
+            "Model": "Airpulse A100",
+            "PrefScore": "4.7",
+            "PrefScoreSub": "7.1",
+            "LFX": "",
+            "PriceIDR": "12750"
+            },
+
+            {
+            "Model": "Audioengine A5+ Classic",
+            "PrefScore": "4.9",
+            "PrefScoreSub": "7.3",
+            "LFX": "",
+            "PriceIDR": "8500"
+            },
+
+            {
+            "Model": "Behringer B2031A",
+            "PrefScore": "5.5",
+            "PrefScoreSub": "7.3",
+            "LFX": "36",
+            "PriceIDR": "6500"
+            },
+
+            {
+            "Model": "Bose Soundlink Revolve",
+            "PrefScore": "0.1",
+            "PrefScoreSub": "2.4",
+            "LFX": "",
+            "PriceIDR": "4300"
+            },
+
+            {
+            "Model": "Bose Soundlink Revolve+",
+            "PrefScore": "0.7",
+            "PrefScoreSub": "3.1",
+            "LFX": "",
+            "PriceIDR": "6000"
+            },
+
+            {
+            "Model": "Bose TV Speaker",
+            "PrefScore": "1.6",
+            "PrefScoreSub": "4",
+            "LFX": "",
+            "PriceIDR": "5900"
+            },
+
+            {
+            "Model": "Bowers & Wilkins Formation Flex",
+            "PrefScore": "3.2",
+            "PrefScoreSub": "5.8",
+            "LFX": "",
+            "PriceIDR": "7600"
+            },
+
+            {
+            "Model": "Dynaudio LYD 5",
+            "PrefScore": "5.7",
+            "PrefScoreSub": "8.3",
+            "LFX": "58",
+            "PriceIDR": "20100"
+            },
+
             {
             "Model": "Edifier MR4",
             "PrefScore": "3.5",
@@ -27,6 +99,22 @@
             },
 
             {
+            "Model": "Focal Alpha 65 Evo",
+            "PrefScore": "4.3",
+            "PrefScoreSub": "6.1",
+            "LFX": "38",
+            "PriceIDR": "16800"
+            },
+
+            {
+            "Model": "Focal Solo6 Be",
+            "PrefScore": "5.2",
+            "PrefScoreSub": "7.2",
+            "LFX": "",
+            "PriceIDR": "29600"
+            },
+
+            {
             "Model": "Genelec 8010a",
             "PrefScore": "5.12",
             "PrefScoreSub": "8.00",
@@ -35,11 +123,59 @@
             },
 
             {
+            "Model": "Genelec 8020D",
+            "PrefScore": "5.7",
+            "PrefScoreSub": "",
+            "LFX": "47",
+            "PriceIDR": "16000"
+            },
+
+            {
             "Model": "Genelec 8030C",
             "PrefScore": "6.31",
             "PrefScoreSub": "8.50",
             "LFX": "46",
             "PriceIDR": "22500"
+            },
+
+            {
+            "Model": "8040B",
+            "PrefScore": "6.3",
+            "PrefScoreSub": "",
+            "LFX": "36",
+            "PriceIDR": "34000"
+            },
+
+            {
+            "Model": "8050B",
+            "PrefScore": "6.3",
+            "PrefScoreSub": "7.5",
+            "LFX": "27",
+            "PriceIDR": "53100"
+            },
+
+            {
+            "Model": "Genelec 8320A",
+            "PrefScore": "5.7",
+            "PrefScoreSub": "8.1",
+            "LFX": "",
+            "PriceIDR": ""
+            },
+
+            {
+            "Model": "Genelec 8331A",
+            "PrefScore": "6.7",
+            "PrefScoreSub": "8.6",
+            "LFX": "39",
+            "PriceIDR": "70000"
+            },
+
+            {
+            "Model": "Genelec 8341A",
+            "PrefScore": "6.9",
+            "PrefScoreSub": "8.6",
+            "LFX": "35",
+            "PriceIDR": "86700"
             },
 
             {
@@ -75,11 +211,123 @@
             },
     
             {
+            "Model": "JBL Control 1 Pro",
+            "PrefScore": "2.8",
+            "PrefScoreSub": "6.3",
+            "LFX": "",
+            "PriceIDR": "3200"
+            },
+
+            {
+            "Model": "JBL One Series 104",
+            "PrefScore": "1.7",
+            "PrefScoreSub": "4.4",
+            "LFX": "",
+            "PriceIDR": "2770"
+            },
+
+            {
             "Model": "Kali LP6 V2",
             "PrefScore": "5.8",
             "PrefScoreSub": "7.7",
             "LFX": "39",
             "PriceIDR": "6700"
+            },
+
+            {
+            "Model": "Kali IN-5",
+            "PrefScore": "5.4",
+            "PrefScoreSub": "7.3",
+            "LFX": "41",
+            "PriceIDR": "6460"
+            },
+
+            {
+            "Model": "Kanto YU",
+            "PrefScore": "3.4",
+            "PrefScoreSub": "6.3",
+            "LFX": "",
+            "PriceIDR": "4800"
+            },
+
+            {
+            "Model": "Kanto YU6",
+            "PrefScore": "4.8",
+            "PrefScoreSub": "7.3",
+            "LFX": "",
+            "PriceIDR": "8500"
+            },
+
+            {
+            "Model": "KEF LS60 Wireless",
+            "PrefScore": "8",
+            "PrefScoreSub": "8.6",
+            "LFX": "20",
+            "PriceIDR": "110000"
+            },
+
+            {
+            "Model": "KEF LS50 Wireless 2",
+            "PrefScore": "5.8",
+            "PrefScoreSub": "7.8",
+            "LFX": "42",
+            "PriceIDR": "36000"
+            },
+
+            {
+            "Model": "KEF LSX",
+            "PrefScore": "4.6",
+            "PrefScoreSub": "6.8",
+            "LFX": "",
+            "PriceIDR": "24900"
+            },
+
+            {
+            "Model": "Klipsch The Fives",
+            "PrefScore": "5.6",
+            "PrefScoreSub": "7.9",
+            "LFX": "48",
+            "PriceIDR": "15400"
+            },
+
+            {
+            "Model": "Klipsch The Three II",
+            "PrefScore": "3",
+            "PrefScoreSub": "4.7",
+            "LFX": "",
+            "PriceIDR": "7550"
+            },
+
+            {
+            "Model": "KRK Classic 5",
+            "PrefScore": "2.8",
+            "PrefScoreSub": "5.2",
+            "LFX": "",
+            "PriceIDR": "5600"
+            },
+
+            {
+            "Model": "KRK Rokit 5 Gen 4",
+            "PrefScore": "3.6",
+            "PrefScoreSub": "5.9",
+            "LFX": "",
+            "PriceIDR": "6900"
+            },
+
+            {
+            "Model": "M-Audio BX3",
+            "PrefScore": "2.9",
+            "PrefScoreSub": "6",
+            "LFX": "",
+            "PriceIDR": "2000"
+            },
+
+            {
+            "Model": "Mackie CR3-X",
+            "PrefScore": "2.2",
+            "PrefScoreSub": "5.1",
+            "LFX": "",
+            "PriceIDR": "2000"
             },
 
             {
@@ -95,7 +343,64 @@
             "PrefScore": "6.7",
             "PrefScoreSub": "8.7",
             "LFX": "42",
-            "PriceIDR": "31300"    
+            "PriceIDR": "31300",
+
+            {
+            "Model": "Neumann KH150",
+            "PrefScore": "6.9",
+            "PrefScoreSub": "8.6",
+            "LFX": "35",
+            "PriceIDR": "70100"
+            },
+
+            {
+            "Model": "Neumann KH310A",
+            "PrefScore": "6.3",
+            "PrefScoreSub": "7.7",
+            "LFX": "30",
+            "PriceIDR": "97000"
+            },
+
+            {
+            "Model": "Presonus E3.5",
+            "PrefScore": "1.5",
+            "PrefScoreSub": "4.3",
+            "LFX": "",
+            "PriceIDR": "2600"
+            },
+
+            {
+            "Model": "Presonus E5 XT",
+            "PrefScore": "3.6",
+            "PrefScoreSub": "6",
+            "LFX": "",
+            "PriceIDR": "3400"
+            },
+
+            {
+            "Model": "RCF Ayra Pro 5",
+            "PrefScore": "3.8",
+            "PrefScoreSub": "6",
+            "LFX": "",
+            "PriceIDR": "6750"
+            },
+
+            {
+            "Model": "Yamaha HS5",
+            "PrefScore": "3",
+            "PrefScoreSub": "5.5",
+            "LFX": "",
+            "PriceIDR": "4000"
+            },
+
+            {
+            "Model": "Yamaha HS7",
+            "PrefScore": "4",
+            "PrefScoreSub": "5.9",
+            "LFX": "",
+            "PriceIDR": "5200"
+            }
+
             }
         ]
     }
